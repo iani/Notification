@@ -21,15 +21,16 @@ default: (
             // ,UserPrefs: true
         )
     )
-),
+)
+// ,
 
-'| uninstall all ! this may break other projects |': (
+// '| uninstall all ! this may break other projects |': (
     // startupFiles: (
     //     removeIfSymlinkEqualsThis: ["startupFiles" +/+ "startup.scd"]
     // ),
-    main: (
-        'notification': false
-    )
+    // main: (
+        // 'notification': false
+    // )
     // ,
     // submodules: (
         // 'team.core': (
@@ -40,7 +41,7 @@ default: (
     //         ,StringUtils: false
     //         ,mcFormat: false
     //         ,UserPrefs: false
-        )
-    )
-)
+        // )
+    // )
+// )
 )
