@@ -1,0 +1,11 @@
+(
+\name: "notification",
+\path: "notification",
+\summary: "",
+\author: "iz",
+\organization: "no.org",
+\country: "",
+\since: "2022",
+\url: "",
+\dependencies: []
+)
